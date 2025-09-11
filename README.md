@@ -30,10 +30,6 @@ It contains insane **GDI effects** and **Bytebeat audio** for fun experiments.
 4. Enjoy the visual and audio prank!  
 
 > If you click **NO**, the program will exit immediately.
-
----
-## Downloads:
-###[Click Here to Download Zip](https://github.com/ytcyberslotp90/Xenotoxin.exe-made-by-Cyber-Slot/archive/refs/heads/main.zip)
 ---
 ## Technical Details:
 
