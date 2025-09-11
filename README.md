@@ -9,10 +9,10 @@ It contains insane **GDI effects** and **Bytebeat audio** for fun experiments.
 > **Do not run this if you have epilepsy or seizures.**  
 
 ---
-## **Screenshots:**
+## Screenshots:
 ![XTS](https://raw.githubusercontent.com/ytcyberslotp90/Xenotoxin.exe-made-by-Cyber-Slot/refs/heads/main/XTS.png)
 ---
-## Features
+## Features:
 
 - Multiple crazy **GDI screen effects**  
 - Real-time **Bytebeat music** synchronized with visuals  
@@ -22,7 +22,7 @@ It contains insane **GDI effects** and **Bytebeat audio** for fun experiments.
 
 ---
 
-## Usage
+## Usage:
 
 1. Download `Xenotoxin.exe` from this repository.  
 2. Run the file.  
@@ -32,8 +32,11 @@ It contains insane **GDI effects** and **Bytebeat audio** for fun experiments.
 > If you click **NO**, the program will exit immediately.
 
 ---
-
-## Technical Details
+## Downloads:
+[Click Here to Download Zip](https://github.com/ytcyberslotp90/Xenotoxin.exe-made-by-Cyber-Slot/archive/refs/heads/main.zip)
+[Click Here to Only Download Xenotoxin.exe File](https://github.com/.../.../releases/download/....exe)
+---
+## Technical Details:
 
 - Created with Python + PyInstaller  
 - Uses `win32gui`, `win32api`, `ctypes`, `numpy`, and `PyAudio`  
@@ -47,7 +50,7 @@ It contains insane **GDI effects** and **Bytebeat audio** for fun experiments.
 
 ---
 
-## Disclaimer
+## Disclaimer:
 
 - **Cyber Slot is not responsible for any damages.**  
 - Intended for **educational and entertainment purposes only**.  
